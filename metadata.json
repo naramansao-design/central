@@ -1,0 +1,8 @@
+{
+  "name": "Central IA",
+  "description": "Plataforma SaaS multiempresa de atendimento inteligente e gestão comercial via WhatsApp com IA para PMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
